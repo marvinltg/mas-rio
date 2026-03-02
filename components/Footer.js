@@ -10,10 +10,10 @@ export default function Footer({ site }) {
                             <strong style={{ color: 'rgba(255,255,255,0.85)' }}>{site.name}</strong> — {site.subtitle}
                         </span>
                     </div>
-                    <div className="col-auto">
+                    {/* <div className="col-auto">
                         <span>© {year} All rights reserved</span>
-                    </div>
-                    <div className="col-auto d-flex gap-3">
+                    </div> */}
+                    {/* <div className="col-auto d-flex gap-3">
                         <a href="#home" title="Home">
                             <i className="bi bi-house-fill"></i>
                         </a>
@@ -26,7 +26,7 @@ export default function Footer({ site }) {
                         >
                             <i className="bi bi-whatsapp"></i>
                         </a>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </footer>

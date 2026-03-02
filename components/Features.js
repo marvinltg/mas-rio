@@ -4,7 +4,7 @@ export default function Features({ site }) {
             icon: 'bi-wallet2',
             color: '#E8941A',
             title: 'Harga Ramah Mahasiswa',
-            desc: 'Mulai dari Rp 3.000! Kenyang dan puas tanpa khawatir kantong jebol di akhir bulan.',
+            desc: 'Harga Makanan Mulai Dari 15 Ribu & Free Es Teh Sepuasnya',
         },
         {
             icon: 'bi-award-fill',
@@ -22,7 +22,7 @@ export default function Features({ site }) {
             icon: 'bi-qr-code-scan',
             color: '#7B4F1E',
             title: 'Pembayaran QRIS Tersedia',
-            desc: 'Bayar praktis via QRIS, transfer bank, atau tunai — semua diterima dengan senang hati.',
+            desc: 'Bayar praktis via QRIS, transfer bank, atau tunai — dan menerima pembayaran lain.',
         },
     ];
 

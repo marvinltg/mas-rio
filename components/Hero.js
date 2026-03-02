@@ -9,7 +9,7 @@ export default function Hero({ site, hero }) {
         }
     }, []);
 
-    const waMessage = encodeURIComponent(`Halo Mas Rio! Saya mau pesan 😊`);
+    const waMessage = encodeURIComponent(`Halo Mas Rio, `);
     const waUrl = `https://wa.me/${site.whatsapp}?text=${waMessage}`;
 
     return (
