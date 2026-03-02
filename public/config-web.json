@@ -1,0 +1,133 @@
+{
+    "site": {
+        "name": "Mie Ayam Mas Rio",
+        "subtitle": "Rumah Makan Mas Rio Wong Sragen",
+        "tagline": "Rasa Asli Wong Sragen, Harga Terjangkau",
+        "whatsapp": "6289509019451",
+        "address": "GV8Q+W5F, Buha, Kec. Mapanget, Kota Manado, Sulawesi Utara",
+        "open_hours": "10:00 - 23:00",
+        "supports_qris": true
+    },
+    "hero": {
+        "background_image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+        "description": "Tempat Makan Murah dan enak cocok di kantong Mahasiswa Politeknik Negeri Manado"
+    },
+    "menu": {
+        "mie": [
+            {
+                "name": "Mie Pangsit Ayam",
+                "price": 15000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Mie Pangsit Ayam Jumbo",
+                "price": 20000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Mie Bakso",
+                "price": 15000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Mie Bakso Tetelan",
+                "price": 20000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Mie Goreng",
+                "price": 18000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Mie Goreng Telur",
+                "price": 15000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            }
+        ],
+        "nasi": [
+            {
+                "name": "Nasi Ayam Lalapan",
+                "price": 25000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Nasi Mujair Goreng",
+                "price": 23000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+             {
+                "name": "Nasi Ayam Geprek",
+                "price": 15000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+             {
+                "name": "Nasi Soto Ayam",
+                "price": 15000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Nasi Tempe Penyet",
+                "price": 15000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            }
+        ],
+        "minuman": [
+            {
+                "name": "Es Teh Manis Jumbo",
+                "price": 5000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Es Nutrisari",
+                "price": 5000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Es Milo",
+                "price": 10000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Es Teler",
+                "price": 15000 ,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Teh / Kopi",
+                "price": 5000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            },
+            {
+                "name": "Air Mineral",
+                "price": 3000,
+                "image": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",
+                "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+            }
+        ]
+    },
+    "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",   
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",   
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw",   
+        "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer4-ZjyXa1hazC_CeIROZ7KWXwZ6phIGW2dvYZzeAaSEdBY4JjXXuKfahoAhiGWiL1DLpZW1B2fzk0XcnmlGHrquTtzbkAy_2AKpSB_3fw3QXNNif6bzE05lQlogcuh0Ym_hppvaKBzwA8=s1360-w1360-h1020-rw"  
+        
+    ],
+    "maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4255.428224928855!2d124.88482851877578!3d1.5169046181980694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3287a1000d6845ad%3A0x726bb2ac922671e8!2sMIE%20PANGSIT%20AYAM%20MAS%20RIO%20Politeknik!5e1!3m2!1sid!2sid!4v1772456089088!5m2!1sid!2sid"
+}
